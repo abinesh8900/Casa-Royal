@@ -72,6 +72,8 @@ nav,
   font-weight: 500;
   font-size: 14px;
   color: #4b4d4f;
+  border: 0;
+  background: none;
 }
 .navbar__item-holder__item:hover {
   color: #2a41e8;
@@ -94,9 +96,11 @@ nav,
   top: 30px;
 }
 .wishlist {
-  padding: 0 40px 0 34px;
+  padding: 36px 40px 32px 40px;
   font-size: 14px;
   color: #262626;
+  border: 0;
+  background: none;
 }
 .nav-btn {
   padding: 35px 30px 31px 31px;
